@@ -27,7 +27,7 @@ Blender objects:  <br/>
 <img src="https://i.imgur.com/d60KPIh.png" height="80%" width="80%" alt="Game Assets"/>
 <img src="https://i.imgur.com/txs7WCZ.png" height="80%" width="80%" alt="Game Assets"/>
 <br />
-<br />
 My logo:
+<br />
 <img src="https://i.imgur.com/YlQXkPH.png" height="80%" width="80%" alt="Game Assets"/>
 </p>

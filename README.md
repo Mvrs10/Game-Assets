@@ -3,19 +3,15 @@
  ### ⚔️ 👑 🧸
 
 <h2>Description</h2>
-Project is a console application using algorithms to receive inputs from users, extract data and display the required outputs.
+Some game assets made during my academic journey.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>C#</b> 
+- <b>Blender</b> 
 
-<h2>IDE Used </h2>
-
-- <b>Visual Studio 2022</b>
-
-<h2>Program walk-through:</h2>
+<h2>Sample Images:</h2>
 
 <p align="center">
 Take student information, extract digits in Student ID and display in as an array: <br/>

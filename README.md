@@ -1,6 +1,6 @@
-<h1>Console Application</h1>
+<h1>Game Assets</h1>
 
- ### 🎲 [Demo Image](https://imgur.com/VW0vO9g)
+ ### ⚔️ 👑 🧸
 
 <h2>Description</h2>
 Project is a console application using algorithms to receive inputs from users, extract data and display the required outputs.

@@ -14,18 +14,20 @@ Some game assets made during my academic journey.
 <h2>Sample Images:</h2>
 
 <p align="center">
-Take student information, extract digits in Student ID and display in as an array: <br/>
-<img src="https://i.imgur.com/xwoFy4m.png" height="80%" width="80%" alt="IPO Console Application"/>
+Spritesheets: <br/>
+<img src="https://i.imgur.com/xmhL4pK.png" height="80%" width="80%" alt="Game Assets"/>
+<img src="https://i.imgur.com/H5opV9N.png" height="80%" width="80%" alt="Game Assets"/>
+<img src="https://i.imgur.com/2t8Sezj.png" height="80%" width="80%" alt="Game Assets"/>
 <br />
 <br />
-Do math operations with integers:  <br/>
-<img src="https://i.imgur.com/VqVRGFh.png" height="80%" width="80%" alt="IPO Console Application"/>
+Blender objects:  <br/>
+<img src="https://i.imgur.com/rixfpvf.png" height="80%" width="80%" alt="Game Assets"/>
+<img src="https://i.imgur.com/vaoVYi6.png" height="80%" width="80%" alt="Game Assets"/>
+<img src="https://i.imgur.com/715ch1m.png" height="80%" width="80%" alt="Game Assets"/>
+<img src="https://i.imgur.com/d60KPIh.png" height="80%" width="80%" alt="Game Assets"/>
+<img src="https://i.imgur.com/txs7WCZ.png" height="80%" width="80%" alt="Game Assets"/>
 <br />
 <br />
-Do math operations with decimals: <br/>
-<img src="https://i.imgur.com/YVLbUoj.png" height="80%" width="80%" alt="IPO Console Application"/>
-<br />
-<br />
-Do String Concatenation:  <br/>
-<img src="https://i.imgur.com/gtUQMPb.png" height="80%" width="80%" alt="IPO Console Application"/>
+My logo:
+<img src="https://i.imgur.com/YlQXkPH.png" height="80%" width="80%" alt="Game Assets"/>
 </p>

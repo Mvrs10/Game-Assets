@@ -9,7 +9,8 @@ Some game assets made during my academic journey.
 
 <h2>Utilities Used</h2>
 
-- <b>Blender</b> 
+- <b>GIMP</b>
+- <b>Blender</b>
 
 <h2>Sample Images:</h2>
 
